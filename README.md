@@ -19,7 +19,7 @@
 
 ## 📂 3. Repository Structure
 - **[여기에서 전체 분석 보고서(PDF)를 확인하실 수 있습니다](./익명%20투표%20서비스%20유저%20활성화%20및%20재출시%20전략%20분석.pdf)**
-- **[여기에서 데이터 전처리 및 ML 모델링 통합 코드를 확인하실 수 있습니다](./H_App_Analysis.ipynb)**
+- **[여기에서 데이터 전처리 및 ML 모델링 상세 과정을 확인하실 수 있습니다](./H_App_Analysis.ipynb.ipynb)**
 - `/src`: 데이터 파이프라인 및 전처리 스크립트
 
 ## 💻 4. Analysis Process (Code Details)
