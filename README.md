@@ -8,7 +8,7 @@
 - **나의 역할**: 데이터 전처리 파이프라인(Airflow) 설계 및 XGBoost 기반 수명 예측 모델링
 
 ## 🛠️ Tech Stack
-- **Languages & Frameworks:** Python, Google BigQuery, Apache Airflow
+- **Languages & Frameworks:** Python
 - **Machine Learning:** XGBoost, LightGBM (Feature Importance 분석)
 - **Natural Language Processing:** KCBERT (유저 생성 콘텐츠 품질 분류)
 - **BI Tools:** Looker Studio (실시간 지표 모니터링용 대시보드)
