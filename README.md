@@ -22,7 +22,7 @@
 - `/notebooks`: EDA 및 모델링 학습 코드 (Jupyter Notebook)
 - `/src`: 데이터 파이프라인 및 전처리 스크립트
 
-## 💻 Analysis Process (Code Details)
+## 💻 4. Analysis Process (Code Details)
 업로드된 파이썬 스크립트에는 다음과 같은 분석 단계가 포함되어 있습니다.
 1. **Data Validation:** `Hackle_Events` 테이블 등 다수 테이블 간 Join을 통한 정합성 검증
 2. **Feature Engineering:** 유저별 활동일수(active_days_count), 학교 규모, 포인트 소비 변수 생성
