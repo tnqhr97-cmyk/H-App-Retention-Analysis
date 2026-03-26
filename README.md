@@ -11,7 +11,6 @@
 - **Languages & Frameworks:** Python
 - **Machine Learning:** XGBoost, LightGBM (Feature Importance 분석)
 - **Natural Language Processing:** KCBERT (유저 생성 콘텐츠 품질 분류)
-- **BI Tools:** Looker Studio (실시간 지표 모니터링용 대시보드)
 
 ## 🔍 2. Core Insights (핵심 발견)
 - **[임계 질량]** 특정 커뮤니티(학교) 인원이 **450명**에 도달할 때 유저 활동성이 비약적으로 상승함 (네트워크 효과 입증)
